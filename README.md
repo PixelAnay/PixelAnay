@@ -97,7 +97,7 @@ Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](h
     <td width="50%" valign="top">
       <h3>📥 Offline Reddit</h3>
       <a href="https://github.com/pixelanay/OfflineReddit">
-        <img src="https://picsum.photos/seed/ecom1/600/400" alt="Offline Reddit" width="100%"/>
+        <img src="https://picsum.photos/seed/ecom1/600/400" alt="Offline Reddit" width="40%"/>
       </a>
       <p>A full-featured Reddit content downloader built with modern technologies, featuring themes, user authentication, and secure integration. Focused on a clean UI and robust backend.</p>
       <p>
@@ -113,7 +113,7 @@ Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](h
     <td width="50%" valign="top">
       <h3>🌐 Retro BrowserOS</h3>
       <a href="https://pixelanay.github.io/os">
-        <img src="https://picsum.photos/seed/dashboard3/600/400" alt="Retro BrowserOS" width="100%"/>
+        <img src="https://picsum.photos/seed/dashboard3/600/400" alt="Retro BrowserOS" width="40%"/>
       </a>
       <p>An interactive web dashboard designed as an interface to mimic an operating system. Users can explore features and derive actionable insights through an intuitive interface.</p>
       <p>
@@ -136,7 +136,7 @@ Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](h
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pixelanay&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Anay's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelanay&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Anay's Top Languages" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelanay&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Anay's Top Languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=cheekychikuy&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
