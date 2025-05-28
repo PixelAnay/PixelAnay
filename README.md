@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://cheekychiku.github.io/">
+  <a href="https://pixelanay.github.io/">
   
   </a>
 
@@ -14,10 +14,10 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/anay2310" target="_blank">
+    <a href="https://linkedin.com/in/anaygawate" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://github.com/cheekychiku" target="_blank">
+    <a href="https://github.com/pixelanay" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="mailto:pixel.anay@gmail.com">
@@ -41,7 +41,7 @@ I'm currently pursuing a **Bachelor of Science in Computer Science** (expected g
 - 👯 I’m looking to collaborate on **open-source projects** or innovative web/mobile applications.
 - 🤔 I’m looking for help with **advanced DevOps practices**.
 - 💬 Ask me about **Java, Python, JavaScript, or Full-Stack Development**.
-- 📫 How to reach me: **pixel.anay@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/anay2310).
+- 📫 How to reach me: **pixel.anay@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/anaygawate).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring retro operating system aesthetics!
 
@@ -84,27 +84,27 @@ Here's a glimpse of the technologies and tools I work with:
   <img src="https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=jira&logoColor=white" alt="Agile Methodologies"/>
 </p>
 
-➡️ **[View All My Skills & Certifications](https://cheekychiku.github.io/skills)** 
+➡️ **[View All My Skills & Certifications](https://pixelanay.github.io/skills)** 
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](https://cheekychiku.github.io/) and [**All Projects Page**](https://cheekychiku.github.io/projects) for more!
+Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](https://pixelanay.github.io/) and [**All Projects Page**](https://pixelanay.github.io/projects) for more!
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>📥 Offline Reddit</h3>
-      <a href="https://github.com/cheekychiku/OfflineReddit">
+      <a href="https://github.com/pixelanay/OfflineReddit">
         <img src="https://picsum.photos/seed/ecom1/600/400" alt="Offline Reddit" width="100%"/>
       </a>
       <p>A full-featured Reddit content downloader built with modern technologies, featuring themes, user authentication, and secure integration. Focused on a clean UI and robust backend.</p>
       <p>
-        <a href="https://github.com/cheekychiku/OfflineReddit" target="_blank">
+        <a href="https://github.com/pixelanay/OfflineReddit" target="_blank">
           <img src="https://img.shields.io/badge/View_Demo-blue?style=flat-square" alt="View Demo"/>
         </a>
-        <a href="https://github.com/cheekychiku/OfflineReddit" target="_blank">
+        <a href="https://github.com/pixelanay/OfflineReddit" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-black?style=flat-square&logo=github" alt="Source Code"/>
         </a>
       </p>
@@ -112,15 +112,15 @@ Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](h
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Retro BrowserOS</h3>
-      <a href="https://cheekychiku.github.io/os">
+      <a href="https://pixelanay.github.io/os">
         <img src="https://picsum.photos/seed/dashboard3/600/400" alt="Retro BrowserOS" width="100%"/>
       </a>
       <p>An interactive web dashboard designed as an interface to mimic an operating system. Users can explore features and derive actionable insights through an intuitive interface.</p>
       <p>
-        <a href="https://cheekychiku.github.io/os" target="_blank">
+        <a href="https://pixelanay.github.io/os" target="_blank">
           <img src="https://img.shields.io/badge/Live_Site-green?style=flat-square" alt="Live Site"/>
         </a>
-        <a href="https://github.com/cheekychiku/cheekychiku.github.io/tree/main/os" target="_blank"> <!-- Assuming it's in a subfolder of your main portfolio repo -->
+        <a href="https://github.com/PixelAnay/pixelanay.github.io/blob/main/os.html" target="_blank"> <!-- Assuming it's in a subfolder of your main portfolio repo -->
           <img src="https://img.shields.io/badge/View_Repo-black?style=flat-square&logo=github" alt="View Repo"/>
         </a>
       </p>
@@ -134,11 +134,11 @@ Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](h
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheekychiku&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Anay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pixelanay&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Anay's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheekychiku&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Anay's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelanay&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Anay's Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=cheekychiku&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=pixelanay&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -158,7 +158,7 @@ Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](h
 For a detailed overview of my skills, experience, and achievements:
 
 <p align="center">
-  <a href="https://cheekychiku.github.io/assets/functionalsample.pdf" target="_blank" download>
+  <a href="https://pixelanay.github.io/assets/functionalsample.pdf" target="_blank" download>
     <img src="https://img.shields.io/badge/Download_Resume_(PDF)-cbe5ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Download Resume"/>
   </a>
 </p>
@@ -170,7 +170,7 @@ For a detailed overview of my skills, experience, and achievements:
     <em>Thanks for visiting my profile! Let's connect and build something amazing.</em>
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=cheekychiku&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=pixelanay&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
   </p>
 
 </div>
