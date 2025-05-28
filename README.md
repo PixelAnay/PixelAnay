@@ -138,7 +138,7 @@ Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](h
   <br/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelanay&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Anay's Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=cheekychikuy&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=pixelanay&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
