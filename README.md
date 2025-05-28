@@ -36,7 +36,7 @@
 
 I'm currently pursuing a **Bachelor of Science in Computer Science** (expected graduation: May 2024). My journey into technology began with a fascination for how software can solve real-world problems and enhance people's lives. I thrive in collaborative environments and enjoy tackling complex challenges, whether it's developing full-stack web applications, designing intuitive mobile apps, or analyzing data for meaningful insights.
 
-- 🎓 Studying Computer Science at **State University** (Class of 2024)
+- 🎓 Studying Computer Science
 - 🌱 I’m currently learning more about **Web3, AI, and advanced Cloud Architectures**.
 - 👯 I’m looking to collaborate on **open-source projects** or innovative web/mobile applications.
 - 🤔 I’m looking for help with **advanced DevOps practices**.
@@ -138,17 +138,14 @@ Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](h
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelanay&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Anay's Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=pixelanay&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=cheekychikuy&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 💼 Professional Journey
 
-- **Software Engineering Intern** @ Innovatech Solutions Ltd. (Summer 2023)
-  - Contributed to a client portal (Angular & Spring Boot), participated in scrums, code reviews.
-- **Teaching Assistant - Intro to Programming** @ State University CS Dept. (Fall 2022 - Spring 2023)
-  - Assisted with Python instruction, conducted labs, graded assignments.
+Student, just starting out!
 
 ---
 
