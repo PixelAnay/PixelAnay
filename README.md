@@ -84,13 +84,13 @@ Here's a glimpse of the technologies and tools I work with:
   <img src="https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=jira&logoColor=white" alt="Agile Methodologies"/>
 </p>
 
-➡️ **[View All My Skills & Certifications](https://pixelanay.github.io/skills)** 
+➡️ **[View All My Skills & Certifications](https://anay.pages.dev/skills)** 
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](https://pixelanay.github.io/) and [**All Projects Page**](https://pixelanay.github.io/projects) for more!
+Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](https://anay.pages.dev/) and [**All Projects Page**](https://anay.pages.dev/projects) for more!
 
 <table width="100%">
   <tr>
@@ -155,7 +155,7 @@ Student, just starting out!
 For a detailed overview of my skills, experience, and achievements:
 
 <p align="center">
-  <a href="https://pixelanay.github.io/assets/functionalsample.pdf" target="_blank" download>
+  <a href="https://anay.pages.dev/assets/functionalsample.pdf" target="_blank" download>
     <img src="https://img.shields.io/badge/Download_Resume_(PDF)-cbe5ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Download Resume"/>
   </a>
 </p>
