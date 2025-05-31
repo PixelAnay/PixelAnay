@@ -91,7 +91,7 @@ Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](h
     <td width="50%" valign="top">
       <h3>📥 Offline Reddit</h3>
       <a href="https://github.com/pixelanay/OfflineReddit">
-        <img src="https://pixelanay.github.io/assets/bg2.jpg" alt="Offline Reddit" width="50%"/>
+        <img src="https://pixelanay.github.io/assets/bg2.jpg" alt="Offline Reddit" width="80%"/>
       </a>
       <p>A full-featured Reddit content downloader built with modern technologies, featuring themes, user authentication, and secure integration. Focused on a clean UI and robust backend.</p>
       <p>
@@ -104,7 +104,7 @@ Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](h
     <td width="50%" valign="top">
       <h3>🌐 Retro BrowserOS</h3>
       <a href="https://pixelanay.github.io/os">
-        <img src="https://pixelanay.github.io/assets/bg3.jpg" alt="Retro BrowserOS" width="50%"/>
+        <img src="https://pixelanay.github.io/assets/bg3.jpg" alt="Retro BrowserOS" width="80%"/>
       </a>
       <p>An interactive web dashboard designed as an interface to mimic an operating system. Users can explore features and derive actionable insights through an intuitive interface.</p>
       <p>
@@ -146,7 +146,7 @@ Student, just starting out!
 For a detailed overview of my skills, experience, and achievements:
 
 <p align="center">
-  <a href="https://anay.pages.dev/assets/functionalsample.pdf" target="_blank" download>
+  <a href="https://pixelanay.github.io/assets/functionalsample.pdf" target="_blank" download>
     <img src="https://img.shields.io/badge/Download_Resume_(PDF)-cbe5ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Download Resume"/>
   </a>
 </p>
