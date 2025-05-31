@@ -91,13 +91,10 @@ Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](h
     <td width="50%" valign="top">
       <h3>📥 Offline Reddit</h3>
       <a href="https://github.com/pixelanay/OfflineReddit">
-        <img src="https://picsum.photos/seed/ecom1/600/400" alt="Offline Reddit" width="40%"/>
+        <img src="https://pixelanay.github.io/assets/bg2.jpg" alt="Offline Reddit" width="50%"/>
       </a>
       <p>A full-featured Reddit content downloader built with modern technologies, featuring themes, user authentication, and secure integration. Focused on a clean UI and robust backend.</p>
       <p>
-        <a href="https://github.com/pixelanay/OfflineReddit" target="_blank">
-          <img src="https://img.shields.io/badge/View_Demo-blue?style=flat-square" alt="View Demo"/>
-        </a>
         <a href="https://github.com/pixelanay/OfflineReddit" target="_blank">
           <img src="https://img.shields.io/badge/Source_Code-black?style=flat-square&logo=github" alt="Source Code"/>
         </a>
@@ -107,14 +104,14 @@ Here are a few highlights from my portfolio. Check out my [**Full Portfolio**](h
     <td width="50%" valign="top">
       <h3>🌐 Retro BrowserOS</h3>
       <a href="https://pixelanay.github.io/os">
-        <img src="https://picsum.photos/seed/dashboard3/600/400" alt="Retro BrowserOS" width="40%"/>
+        <img src="https://pixelanay.github.io/assets/bg3.jpg" alt="Retro BrowserOS" width="50%"/>
       </a>
       <p>An interactive web dashboard designed as an interface to mimic an operating system. Users can explore features and derive actionable insights through an intuitive interface.</p>
       <p>
-        <a href="https://pixelanay.github.io/os" target="_blank">
+        <a href="https://pixelanay.github.io/OS" target="_blank">
           <img src="https://img.shields.io/badge/Live_Site-green?style=flat-square" alt="Live Site"/>
         </a>
-        <a href="https://github.com/PixelAnay/pixelanay.github.io/blob/main/os.html" target="_blank"> <!-- Assuming it's in a subfolder of your main portfolio repo -->
+        <a href="https://github.com/PixelAnay/OS" target="_blank"> <!-- Assuming it's in a subfolder of your main portfolio repo -->
           <img src="https://img.shields.io/badge/View_Repo-black?style=flat-square&logo=github" alt="View Repo"/>
         </a>
       </p>
