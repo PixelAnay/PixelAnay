@@ -12,7 +12,7 @@
 
 </div>
 
----
+
 
 ## // 01 About Me
 I am currently pursuing a B.Tech in Computer Science and I thrive on building real products that work — from full-stack web apps to AI interfaces and embedded systems.
@@ -50,7 +50,7 @@ I am currently pursuing a B.Tech in Computer Science and I thrive on building re
 
 **Tech:** Flutter · Firebase
 
----
+
 
 ## // 03 Technical Skills
 
@@ -69,7 +69,7 @@ Git, GitHub, Cloudflare, Bash, Linux, Local LLMs, Arduino
 ### CS Fundamentals
 Cross-platform Development, Android Development, REST APIs
 
----
+
 
 ## // 04 Experience
 ### Android Developer — ProjectFuel · Self-employed
@@ -77,7 +77,7 @@ Cross-platform Development, Android Development, REST APIs
 
 Independently developed and published Android applications. First app reached 10K+ organic downloads on Google Play. Continued shipping Android, iOS, and Web experiences, including a Flutter-based nutrition and health tracker backed by Firebase.
 
----
+
 
 ## // 05 Education
 ### Bachelor of Technology - BTech, Computer Science
@@ -86,7 +86,7 @@ Independently developed and published Android applications. First app reached 10
 
 Currently pursuing undergraduate studies in Computer Science while building cross-platform apps and systems projects.
 
----
+
 
 ## // 06 Achievements
 ### Smart India Hackathon - Top 100 Teams
@@ -94,7 +94,7 @@ Currently pursuing undergraduate studies in Computer Science while building cros
 
 Journease, a smart travel companion for logging trips, memories, analysis, and insights, was recognized among the top 100 teams.
 
----
+
 
 ## // 07 Connect
 - Portfolio: https://anay.pages.dev
@@ -104,5 +104,5 @@ Journease, a smart travel companion for logging trips, memories, analysis, and i
 - YouTube: https://www.youtube.com/@voltandvision
 - Email: pixel.anay@gmail.com
 
----
+
 
