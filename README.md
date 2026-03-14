@@ -17,7 +17,7 @@
 ## // 01 About Me
 I am currently pursuing a B.Tech in Computer Science and I thrive on building real products that work — from full-stack web apps to AI interfaces and embedded systems.
 
-- Built on the internet since age 14 (Android apps, hardware projects, and systems tinkering)
+- Built on the internet (Android apps, hardware projects, and systems tinkering)
 - Cross-platform builder with Flutter + Firebase stack
 - Comfortable across software + hardware workflows
 - Open to technical internships where I can build meaningful products
