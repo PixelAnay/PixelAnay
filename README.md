@@ -14,7 +14,7 @@
 
 ---
 
-## //01 About Me
+## // 01 About Me
 I am currently pursuing a B.Tech in Computer Science and I thrive on building real products that work — from full-stack web apps to AI interfaces and embedded systems.
 
 - Built on the internet since age 14 (Android apps, hardware projects, and systems tinkering)
@@ -26,7 +26,7 @@ I am currently pursuing a B.Tech in Computer Science and I thrive on building re
 
 
 
-## //02 Featured Projects
+## // 02 Featured Projects
 
 ### 1) PureFuel
 **Category:** Cross-platform Mobile & Web Application  
@@ -52,7 +52,7 @@ I am currently pursuing a B.Tech in Computer Science and I thrive on building re
 
 ---
 
-## //03 Technical Skills
+## // 03 Technical Skills
 
 ### Languages
 JavaScript, Python, Java, Dart, C++, Embedded C, C
@@ -74,7 +74,7 @@ Google Play
 
 ---
 
-## //04 Experience
+## // 04 Experience
 ### Android Developer — ProjectFuel · Self-employed
 **2021 - Present**
 
@@ -82,7 +82,7 @@ Independently developed and published Android applications. First app reached 10
 
 ---
 
-## //05 Education
+## // 05 Education
 ### Bachelor of Technology - BTech, Computer Science
 **MIT ADT University**  
 **Jul 2025 - Jul 2029**
@@ -91,7 +91,7 @@ Currently pursuing undergraduate studies in Computer Science while building cros
 
 ---
 
-## //06 Achievements
+## // 06 Achievements
 ### Smart India Hackathon - Top 100 Teams
 **Sep 2025 · MIT ADT University**
 
@@ -99,13 +99,13 @@ Journease, a smart travel companion for logging trips, memories, analysis, and i
 
 ---
 
-## //07 GitHub Contribution Graph
+## // 07 GitHub Contribution Graph
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pixelanay&theme=github-dark&hide_border=true&area=true)
 
 ---
 
-## //08 Connect
+## // 08 Connect
 - Portfolio: https://anaygawate.vercel.app
 - GitHub: https://github.com/pixelanay
 - LinkedIn: https://www.linkedin.com/in/anaygawate/
