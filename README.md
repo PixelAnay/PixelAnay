@@ -69,9 +69,6 @@ Git, GitHub, Cloudflare, Bash, Linux, Local LLMs, Arduino
 ### CS Fundamentals
 Cross-platform Development, Android Development, REST APIs
 
-### Design
-Google Play
-
 ---
 
 ## // 04 Experience
