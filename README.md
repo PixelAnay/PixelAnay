@@ -4,7 +4,7 @@
 ### CSE Student | Building apps that should exist | Flutter · Embedded · Self-taught since 14
 
 <p>
-  <a href="https://anaygawate.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-ff00ff?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://anayg.pages.dev"><img src="https://img.shields.io/badge/Portfolio-Live-ff00ff?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://github.com/pixelanay"><img src="https://img.shields.io/badge/GitHub-pixelanay-14141c?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/anaygawate/"><img src="https://img.shields.io/badge/LinkedIn-Anay%20Gawate-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:pixel.anay@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
@@ -99,14 +99,8 @@ Journease, a smart travel companion for logging trips, memories, analysis, and i
 
 ---
 
-## // 07 GitHub Contribution Graph
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pixelanay&theme=github-dark&hide_border=true&area=true)
-
----
-
-## // 08 Connect
-- Portfolio: https://anaygawate.vercel.app
+## // 07 Connect
+- Portfolio: https://anay.pages.dev
 - GitHub: https://github.com/pixelanay
 - LinkedIn: https://www.linkedin.com/in/anaygawate/
 - LeetCode: https://leetcode.com/pixelanay
