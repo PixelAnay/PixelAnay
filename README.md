@@ -14,7 +14,7 @@
 
 ---
 
-## // About Me
+## //01 About Me
 I am currently pursuing a B.Tech in Computer Science and I thrive on building real products that work — from full-stack web apps to AI interfaces and embedded systems.
 
 - Built on the internet since age 14 (Android apps, hardware projects, and systems tinkering)
@@ -24,21 +24,9 @@ I am currently pursuing a B.Tech in Computer Science and I thrive on building re
 
 ---
 
-## // Website Replica (README Edition)
-This README mirrors the live portfolio structure and content:
 
-- Hero + profile identity
-- Featured projects
-- Technical skills by category
-- Experience + education timeline
-- Achievements
-- Contact + social links
 
-> Live website: **https://anaygawate.vercel.app**
-
----
-
-## // Featured Projects
+## //02 Featured Projects
 
 ### 1) PureFuel
 **Category:** Cross-platform Mobile & Web Application  
@@ -64,7 +52,7 @@ This README mirrors the live portfolio structure and content:
 
 ---
 
-## // Technical Skills
+## //03 Technical Skills
 
 ### Languages
 JavaScript, Python, Java, Dart, C++, Embedded C, C
@@ -86,15 +74,15 @@ Google Play
 
 ---
 
-## // Experience
+## //04 Experience
 ### Android Developer — ProjectFuel · Self-employed
 **2021 - Present**
 
-Independently developed and published Android applications from age 15. First app reached 10K+ organic downloads on Google Play. Continued shipping Android, iOS, and Web experiences, including a Flutter-based nutrition and health tracker backed by Firebase.
+Independently developed and published Android applications. First app reached 10K+ organic downloads on Google Play. Continued shipping Android, iOS, and Web experiences, including a Flutter-based nutrition and health tracker backed by Firebase.
 
 ---
 
-## // Education
+## //05 Education
 ### Bachelor of Technology - BTech, Computer Science
 **MIT ADT University**  
 **Jul 2025 - Jul 2029**
@@ -103,7 +91,7 @@ Currently pursuing undergraduate studies in Computer Science while building cros
 
 ---
 
-## // Achievements
+## //06 Achievements
 ### Smart India Hackathon - Top 100 Teams
 **Sep 2025 · MIT ADT University**
 
@@ -111,13 +99,13 @@ Journease, a smart travel companion for logging trips, memories, analysis, and i
 
 ---
 
-## // GitHub Contribution Graph
+## //07 GitHub Contribution Graph
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pixelanay&theme=github-dark&hide_border=true&area=true)
 
 ---
 
-## // Connect
+## //08 Connect
 - Portfolio: https://anaygawate.vercel.app
 - GitHub: https://github.com/pixelanay
 - LinkedIn: https://www.linkedin.com/in/anaygawate/
@@ -127,12 +115,3 @@ Journease, a smart travel companion for logging trips, memories, analysis, and i
 
 ---
 
-## // Repository Info
-This repository powers the personal portfolio website and uses a content-driven setup:
-
-- `content.json` for profile, projects, skills, timeline, and links
-- `script.js` for dynamic rendering
-- `style.css` for UI system and interactions
-- `index.html`, `projects.html`, `skills.html` for page structure
-
-To run locally, just open `index.html` in a browser, or deploy to static hosting (Vercel/Netlify/Cloudflare Pages).
