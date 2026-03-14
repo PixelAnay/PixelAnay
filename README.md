@@ -22,7 +22,7 @@ I am currently pursuing a B.Tech in Computer Science and I thrive on building re
 - Comfortable across software + hardware workflows
 - Open to technical internships where I can build meaningful products
 
----
+
 
 
 
