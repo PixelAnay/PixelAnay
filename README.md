@@ -4,7 +4,7 @@
 ### CSE Student | Building apps that should exist | Flutter · Embedded · Self-taught since 14
 
 <p>
-  <a href="https://anayg.pages.dev"><img src="https://img.shields.io/badge/Portfolio-Live-ff00ff?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://anay.pages.dev"><img src="https://img.shields.io/badge/Portfolio-Live-ff00ff?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://github.com/pixelanay"><img src="https://img.shields.io/badge/GitHub-pixelanay-14141c?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/anaygawate/"><img src="https://img.shields.io/badge/LinkedIn-Anay%20Gawate-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:pixel.anay@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
