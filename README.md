@@ -5,14 +5,14 @@
 
 <h3><code>pixelanay@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Anay's GitHub contribution graph, auto-refreshed daily" />
+<img src="./contrib-heatmap.svg?v=2" width="860" alt="Anay's GitHub contribution graph, auto-refreshed daily" />
 
 <br>
 <br>
 
 <h3><code>pixelanay@github ~ $ ./stats.sh</code></h3>
 
-<img src="./stats.svg" width="860" alt="Anay's GitHub streak and contribution stats, auto-refreshed daily" />
+<img src="./stats.svg?v=2" width="860" alt="Anay's GitHub streak and contribution stats, auto-refreshed daily" />
 
 <br>
 <br>
