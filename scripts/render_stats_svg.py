@@ -3,10 +3,10 @@
 Render the streak / numbers card from data/contributions.json (written daily by
 fetch_contributions.py) as a terminal-window SVG shown under the contribution heatmap.
 
-The canvas is 1720 x 700 and the README shows it at width 860 (0.5x), the same
+The canvas is 1720 x 560 and the README shows it at width 860 (0.5x), the same
 width as the heatmap, so fonts are sized for that half-scale display.
 
-Six stat tiles slide in and their numbers count up to the real value, then a
+Six stat tiles (left) slide in and their numbers count up to the real value, then a
 monthly-contributions bar chart grows in underneath. The count-up is a stack of
 pre-rendered frames toggled with SMIL <set>, since GitHub runs SMIL/CSS inside
 <img> SVGs but never JS.
@@ -31,15 +31,16 @@ INK = "#e6edf3"
 GREEN = "#39d353"
 BAR = "#26a641"
 
-W, H = 1720, 700
+W, H = 1720, 560
 PAD = 20
 TITLEBAR_H = 30
-COLS, ROWS = 3, 2
+COLS, ROWS = 2, 3
 GAP = 16
-TILE_W = (W - PAD * 2 - GAP * (COLS - 1)) / COLS
+HALF_W = (W - PAD * 2 - GAP) / 2      # tiles on the left half, bar chart on the right
+TILE_W = (HALF_W - GAP * (COLS - 1)) / COLS
 TILE_H = 150
 TILES_TOP = TITLEBAR_H + PAD + 4
-CHART_TOP = TILES_TOP + ROWS * TILE_H + (ROWS - 1) * GAP + GAP
+CHART_TOP = TILES_TOP
 
 # timing (seconds)
 TILE_STAGGER = 0.15
@@ -133,8 +134,8 @@ for i, (label, value, suffix, caption, accent) in enumerate(tiles):
 
 # ---- monthly bars --------------------------------------------------------
 monthly = data["monthly"]
-chart_x, chart_w = PAD, W - PAD * 2
-chart_h = H - PAD - CHART_TOP
+chart_x, chart_w = PAD + HALF_W + GAP, HALF_W
+chart_h = ROWS * TILE_H + (ROWS - 1) * GAP
 parts.append(f'<g class="t" style="animation-delay:{BAR_START - 0.3:.2f}s">')
 parts.append(f'<rect x="{chart_x}" y="{CHART_TOP}" width="{chart_w}" height="{chart_h}" rx="10" '
              f'fill="{TILE}" stroke="{FRAME}"/>')
