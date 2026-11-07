@@ -3,12 +3,12 @@
 <!-- animated contribution graph + stats card: real data, regenerated daily by
      .github/workflows/update-profile-art.yml -->
 
-<img src="./contrib-heatmap.svg?v=3" width="860" alt="Anay's GitHub contribution graph, auto-refreshed daily" />
+<img src="./contrib-heatmap.svg?v=4" width="860" alt="Anay's GitHub contribution graph, auto-refreshed daily" />
 
 <br>
 <br>
 
-<img src="./stats.svg?v=3" width="860" alt="Anay's GitHub streak and contribution stats, auto-refreshed daily" />
+<img src="./stats.svg?v=4" width="860" alt="Anay's GitHub streak and contribution stats, auto-refreshed daily" />
 
 <br>
 <br>
